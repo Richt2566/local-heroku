@@ -1,5 +1,25 @@
-# **Instructions**
+# Express Application 
 
-* Spend a few moments looking over the code sent to you. First, get the server running, then begin to dissect the JavaScript code found at the bottom of `add.html`.
+This repository contains a simple application using Node, Express as well as Body-Parser and Path npm packages. It demonstrates the use of a simple battle between characters. 
 
-* Explain to one another what the code does, what its for, and why its relevant to the application so far. Be sure to explain to one another what the `$.post` code is doing.
+## Built With
+
+* Html5
+* CSS3
+* Javascript
+* [JQuery ver 3.2.1](https://code.jquery.com/)
+* Node.js
+* Express.js
+* npm packages
+
+## Contributors
+
+* [Rich Tranter](https://github.com/Richt2566/)
+
+## License
+
+* None
+
+## Acknowledgments
+
+* [Maggie Storino](https://www.linkedin.com/in/maggiestorino/), [Reuben Ayres](https://www.linkedin.com/in/reuben-ayres/), and [Phil Wise](https://www.linkedin.com/in/philipwise/)
